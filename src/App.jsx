@@ -46,7 +46,7 @@ function App() {
             className="flex flex-col self-baseline p-5 gap-5 w-full"
           >
             <h1 className="text-xl text-white">Contact</h1>
-            <div className="grid grid-cols-2">
+            <div className="grid grid-cols-2 mb-10">
               <div className="col-span-1 flex flex-col gap-2">
                 <span className=" text-gray-400 ">Linked In</span>
                 <span className=" text-gray-400 ">GitHub</span>
